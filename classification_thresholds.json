@@ -1,0 +1,15 @@
+{
+    "score_definition": "-log10(CorrectedPValue)",
+    "low_quantile": 0.2,
+    "high_quantile": 0.8,
+    "low_threshold": 3.2441251443275085,
+    "high_threshold": 18.565431095965803,
+    "low_label": 0,
+    "high_label": 1,
+    "middle_label": -1,
+    "n_total": 1689023,
+    "n_low": 337874,
+    "n_high": 337825,
+    "n_middle": 1013324,
+    "n_valid": 675699
+}

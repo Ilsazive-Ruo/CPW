@@ -1,6 +1,6 @@
 # CPW
 
-**A Network-Informed Deep-Learning Framework Empowers Pharmaceutical Ingredients Discovery for Drug-Induced Liver Injury Protection**
+**Network-Informed Deep Learning Framework for Pathway-Guided Active Pharmaceutical Ingredient Prioritization Against Drug-Induced Liver Injury**
 
 This repository provides the code for a molecular–pathway interaction prediction framework used to prioritize candidate active pharmaceutical ingredients for drug-induced liver injury (DILI). Molecules are represented by 2,048-bit Morgan fingerprints, pathways by scGPT-based gene embeddings, and their associations are modeled using a Q-Former classifier. The repository also includes cross-validation, cold-start evaluation, and interpretability analyses.
 
@@ -29,7 +29,7 @@ For evaluation, use `Qformer_CV.py` (cross-validation) or `CV_qformer_cold_start
 
 ## Pretrained weights and prediction
 
-Trained model weights are available from **[Zenodo (DOI: 10.5281/zenodo.23336401)](https://doi.org/10.5281/zenodo.23336401)**.
+Trained model weights are available from **[Figshare (10.6084/m9.figshare.34476108)](10.6084/m9.figshare.34476108)**.
 
 For prediction, provide a molecule CSV (first two columns: molecule name and SMILES), a pathway CSV (first four columns: pathway name, pathway ID, gene list, gene count), and the downloaded checkpoint:
 

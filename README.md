@@ -29,7 +29,7 @@ For evaluation, use `Qformer_CV.py` (cross-validation) or `CV_qformer_cold_start
 
 ## Pretrained weights and prediction
 
-Trained model weights are available from **[Figshare (10.6084/m9.figshare.34476108)](10.6084/m9.figshare.34476108)**.
+Trained model weights are available from **[Figshare (10.6084/m9.figshare.34476108)](https://doi.org/10.6084/m9.figshare.34476108)**.
 
 For prediction, provide a molecule CSV (first two columns: molecule name and SMILES), a pathway CSV (first four columns: pathway name, pathway ID, gene list, gene count), and the downloaded checkpoint:
 

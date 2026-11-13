@@ -41,8 +41,6 @@ python Predictor.py \
   --data_dir CLSData2
 ```
 
-The prediction script also requires `CLSData2/cls_gene_metadata.pkl` and `CLSData2/scgpt_matrix.pt` from the corresponding preprocessing run. Results are saved to `QFormer_Predictions/` by default.
-
 ## License
 
 The repository's source code is distributed under the [MIT License](LICENSE). Third-party datasets and pretrained scGPT assets remain subject to their respective terms; see the [scGPT repository](https://github.com/bowang-lab/scGPT).

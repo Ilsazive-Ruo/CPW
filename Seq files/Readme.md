@@ -1,1 +1,2 @@
-Raw data source is available at: https://doi.org/10.57760/sciencedb.015sy (https://www.scidb.cn/anonymous/M0lKcnlh)
+Raw data source of bulk seq data generated for experimental validation is available at: https://doi.org/10.57760/sciencedb.015sy (https://www.scidb.cn/anonymous/M0lKcnlh)
+The dataset comprises four experimental groups: normal control (B1-B3), APAP-induced acute liver injury model (M1-M3), free RT/GA combination treatment (LA1-LA3), and RT/GA nanoformulation treatment (NCs1-NCs3), with three independent biological replicates per group (12 samples in total).
